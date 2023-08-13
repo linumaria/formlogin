@@ -1,0 +1,56 @@
+#start {
+    text-align: center;
+    color: black;
+    
+}
+form {
+    background-color: thistle
+
+}
+h1 {
+    text-align : center;
+    color: blue;
+}
+img {
+    height: 125px;
+    width: 125px;
+    border-radius : 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+#details{
+    text-align: center;
+    color: blue;
+    
+}
+input {
+    
+    border-top: 0ex;
+    border-right: 0ex;
+    border-left:0ex;
+}
+button {
+    width: 200px ;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    color: white;
+    background-color:blue ;
+    border-top:0ex;
+    border-left:0ex;
+    
+}
+#rem {
+ text-align: center;
+ font-weight: bold; 
+ color: blue;
+
+
+}
+#link{
+    text-align: center;
+}
+#det {
+    background-color: thistle;
+}
